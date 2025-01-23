@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-23T16:06:04 IST" name="Selenium Suite" finished-at="2025-01-23T16:06:19 IST" duration-ms="14683">
+    <groups>
+    </groups>
+    <test started-at="2025-01-23T16:06:04 IST" name="Test Group 1" finished-at="2025-01-23T16:06:19 IST" duration-ms="14683">
+      <class name="com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02@771a660]" started-at="2025-01-23T16:06:04 IST" name="openBrowser" finished-at="2025-01-23T16:06:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02@771a660]" started-at="2025-01-23T16:06:09 IST" name="openURL" finished-at="2025-01-23T16:06:10 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02@771a660]" started-at="2025-01-23T16:06:09 IST" name="openBrowser" finished-at="2025-01-23T16:06:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="userSignIn()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02@771a660]" started-at="2025-01-23T16:06:10 IST" name="userSignIn" finished-at="2025-01-23T16:06:12 IST" duration-ms="1637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSignIn -->
+        <test-method is-config="true" signature="getScreenShot()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02@771a660]" started-at="2025-01-23T16:06:12 IST" name="getScreenShot" finished-at="2025-01-23T16:06:12 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShot -->
+        <test-method is-config="true" signature="getTitle()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02@771a660]" started-at="2025-01-23T16:06:12 IST" name="getTitle" finished-at="2025-01-23T16:06:12 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02@771a660]" started-at="2025-01-23T16:06:21 IST" name="closeBrowser" finished-at="2025-01-23T16:06:21 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02 -->
+      <class name="com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03@4f80542f]" started-at="2025-01-23T16:06:12 IST" name="openBrowser" finished-at="2025-01-23T16:06:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03@4f80542f]" started-at="2025-01-23T16:06:12 IST" name="openURL" finished-at="2025-01-23T16:06:12 IST" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="AddToCart()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03@4f80542f]" started-at="2025-01-23T16:06:12 IST" name="AddToCart" finished-at="2025-01-23T16:06:18 IST" duration-ms="5867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="getScreenShot()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03@4f80542f]" started-at="2025-01-23T16:06:18 IST" name="getScreenShot" finished-at="2025-01-23T16:06:19 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShot -->
+        <test-method is-config="true" signature="getTitle()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03@4f80542f]" started-at="2025-01-23T16:06:19 IST" name="getTitle" finished-at="2025-01-23T16:06:19 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03@4f80542f]" started-at="2025-01-23T16:06:19 IST" name="closeBrowser" finished-at="2025-01-23T16:06:21 IST" duration-ms="2536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03 -->
+      <class name="com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:02 IST" name="openBrowser" finished-at="2025-01-23T16:06:04 IST" duration-ms="1424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:04 IST" name="openURL" finished-at="2025-01-23T16:06:07 IST" duration-ms="2897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method is-config="true" signature="getCookies()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:07 IST" name="getCookies" finished-at="2025-01-23T16:06:07 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method is-config="true" signature="getTitleOfPage()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:07 IST" name="getTitleOfPage" finished-at="2025-01-23T16:06:07 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleOfPage -->
+        <test-method signature="FillRegisterdata()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:07 IST" name="FillRegisterdata" finished-at="2025-01-23T16:06:07 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillRegisterdata -->
+        <test-method is-config="true" signature="getScreenShot()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:07 IST" name="getScreenShot" finished-at="2025-01-23T16:06:07 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShot -->
+        <test-method is-config="true" signature="getTitleOfPage()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:07 IST" name="getTitleOfPage" finished-at="2025-01-23T16:06:07 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleOfPage -->
+        <test-method signature="FillRegisterdata2()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:07 IST" name="FillRegisterdata2" finished-at="2025-01-23T16:06:08 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillRegisterdata2 -->
+        <test-method is-config="true" signature="getScreenShot()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:08 IST" name="getScreenShot" finished-at="2025-01-23T16:06:08 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShot -->
+        <test-method is-config="true" signature="getTitleOfPage()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:08 IST" name="getTitleOfPage" finished-at="2025-01-23T16:06:08 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleOfPage -->
+        <test-method signature="FillRegisterdata3()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:08 IST" name="FillRegisterdata3" finished-at="2025-01-23T16:06:09 IST" duration-ms="1382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillRegisterdata3 -->
+        <test-method is-config="true" signature="getScreenShot()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:09 IST" name="getScreenShot" finished-at="2025-01-23T16:06:09 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShot -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01@72e5a8e]" started-at="2025-01-23T16:06:21 IST" name="closeBrowser" finished-at="2025-01-23T16:06:21 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01 -->
+    </test> <!-- Test Group 1 -->
+  </suite> <!-- Selenium Suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Selenium Suite">
+    <test name="Test Group 1">
+        <classes>
+            <class name="com.jepetStoreWithPageFactory.TestCases.Tc_RegisterUser_01"/>
+            <class name="com.jepetStoreWithPageFactory.TestCases.Tc_SignIn_02"/>
+            <class name="com.jepetStoreWithPageFactory.TestCases.Tc_AddToCartOrder_03"/>
+        </classes>
+    </test>
+</suite>
